@@ -9,9 +9,9 @@ const About = () => (
       <div className='subheading'>Senior Software Engineer</div>
       <div className="subheading mb-5">{`Mobile: (+84)1666-459-432, Email: `}
         <a href="mailto:tranhuuphuoc88@gmail.com">tranhuuphuoc88@gmail.com</a>
-        {`, Skype: tranhuuphuoc88`}
+        {`, Skype: tranhuuphuoc88, Birthday: 12/05/1988`}
       </div>
-      <p className="mb-5" style={{width: 600, textAlign: 'justify'}}>
+      <p className="mb-5" style={{width: 1000, textAlign: 'justify'}}>
         I was born and grown in a countryside in Ha Tinh province. With a passion for computer from very soon.
         I become a Senior software engineer in Android/ReactJs/Java backend with over 7 years of experience.
         After graduated I spend a few months work in FPT Software in Da Nang city at the position Android developer, 3 years in Gameloft just focus on Video Game,
