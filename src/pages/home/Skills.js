@@ -5,68 +5,82 @@ const Skills = () => (
     <div className="my-auto">
       <h2 className="mb-5">Skills</h2>
 
-      <div className="subheading mb-3">Programming Languages &amp; Tools</div>
-      <ul className="list-inline list-icons">
-        <li className="list-inline-item">
-          <i className="devicon-java-plain colored"></i>
+      <div className="subheading mb-3">Programming Languages</div>
+      <ul className="fa-ul">
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Java + Lambda
         </li>
-        <li className="list-inline-item">
-          <i className="devicon-javascript-plain colored"></i>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Javascript + ES6
         </li>
-        <li className="list-inline-item">
-          <i className="devicon-git-plain colored"></i>
+      </ul>
+
+      <div className="subheading mb-3">Development Tools</div>
+      <ul className="fa-ul">
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Git, Webstorm, Jira, Confluence, Ubuntu, Android studio, Intellij, Teamcity, SonarQube, npm, Bitbucket, Zeplin,...
         </li>
-        <li className="list-inline-item">
-          <i className="devicon-intellij-plain colored"></i>
+      </ul>
+
+      <div className="subheading mb-3">Soft skill-set</div>
+      <ul className="fa-ul">
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Event organization (Team building, team outdoor activities, company trip, charity activities, trekking,...)
         </li>
-        <li className="list-inline-item">
-          <i className="devicon-android-plain colored"></i>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Communication, sharing and supporting
         </li>
-        <li className="list-inline-item">
-          <i className="devicon-amazonwebservices-plain-wordmark colored"></i>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Teamwork/Solo
         </li>
-        <li className="list-inline-item">
-          <i className="devicon-react-original colored"></i>
+      </ul>
+
+      <div className="subheading mb-3">Core values</div>
+      <ul className='fa-ul'>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Collaboration
         </li>
-        <li className="list-inline-item">
-          <i className="devicon-bootstrap-plain-wordmark colored"></i>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Accountability
         </li>
-        <li className="list-inline-item">
-          <i class="devicon-docker-plain colored"></i>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Integrity
         </li>
-        <li className="list-inline-item">
-          <i class="devicon-gradle-plain colored"></i>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Service
         </li>
-        <li className="list-inline-item">
-          <i class="devicon-html5-plain-wordmark colored"></i>
-        </li>
-        <li className="list-inline-item">
-          <i class="devicon-cucumber-plain-wordmark colored"></i>
-        </li>
-        <li className="list-inline-item">
-          <i class="devicon-css3-plain colored"></i>
-        </li>
-        <li className="list-inline-item">
-          <i class="devicon-mongodb-plain-wordmark colored"></i>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Professional
         </li>
       </ul>
 
       <div className="subheading mb-3">Workflow</div>
       <ul className="fa-ul mb-0">
         <li>
-          <i className="fa-li fa fa-check"></i>
-          Mobile-First, Responsive Design
+          <i className="fa-li fa fa-check"/>
+          CI/CD (Continuous Integration/Continuous Development)
         </li>
         <li>
-          <i className="fa-li fa fa-check"></i>
-          Cross Browser Testing &amp; Debugging
+          <i className="fa-li fa fa-check"/>
+          Cross Review Code
         </li>
         <li>
-          <i className="fa-li fa fa-check"></i>
+          <i className="fa-li fa fa-check"/>
           Cross Functional Teams
         </li>
         <li>
-          <i className="fa-li fa fa-check"></i>
+          <i className="fa-li fa fa-check"/>
           Agile Development &amp; Scrum
         </li>
       </ul>

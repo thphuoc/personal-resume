@@ -7,7 +7,7 @@ const Interests = () => (
       <p>Trekking, Climbing, Swimming, Walking for health.</p>
       <p className="mb-0">I specially interested in Buddhism, Meditation. It make feel serenity and peace</p>
       <p className="mb-0">Sometimes I go to charity with my friends and I like it</p>
-      <p className="mb-0">I like learn everything. Because I think that we survival is to discover the world and make the awesome things</p>
+      <p className="mb-0">I like to learn everything. I think we survival is to discover the world, discover myself and make the awesome/valuable things</p>
     </div>
   </section>
 )
