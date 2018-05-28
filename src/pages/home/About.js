@@ -16,9 +16,9 @@ const About = () => (
         I become a Senior software engineer in Android/ReactJs/Java backend with over 7 years of experience.
         After graduated I spend a few months work in FPT Software in Da Nang city at the position Android developer, 3 years in Gameloft just focus on Video Game,
         2 years in Foody and build up a product on Android for more than 38 million users,
-        1 year work Freelancer (In that duration have a few months work for VPBank) and then join Commonwealth Bank from 03/2016 until now.
+        1 year work Freelancer (In that duration have a few months work for VPBank) then back to FPT again and work at customer side is CBA (A software development HUB belong Commonwealth Bank) from 03/2016 until now.
         During that time I've got lots of hands-on experiences at the positions like Android developer, ReactJs web developer, Backend developer, Scrum Master, DevOpts and Automation QA.
-        Beside that I usually organize outdoor activities, team building, charity events for team and company. So everyone called him by a pretty name is "party leader" ^^.
+        Beside that I usually organize outdoor activities, team building, charity events for team and company. So that everyone usually called me is "party leader" ^^.
       </p>
       <ul className="list-inline list-social-icons mb-0">
         <li className="list-inline-item">

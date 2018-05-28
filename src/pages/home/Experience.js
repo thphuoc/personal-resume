@@ -108,7 +108,7 @@ const Experience = () => (
       <div className="resume-item d-flex flex-column flex-md-row mb-5">
         <div className="resume-content mr-auto">
           <h3 className="mb-0">Android Video Game developer (Work Gameloft)</h3>
-          <div className="subheading mb-3">Project: Asphalt 8, Modern Combat 5</div>
+          <div className="subheading mb-3">Project: <a href='https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftR7HM'>Asphalt 8, Modern Combat 5, Real Football</a></div>
           <p>During this time I work in retail department. It mean we just fix bug and posting game from iOS to Android. In this duration as well I have learned many skill regarding Android, debug,...</p>
 
           <p>
