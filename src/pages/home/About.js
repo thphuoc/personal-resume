@@ -6,8 +6,10 @@ const About = () => (
       <h1 className="mb-0">{`Tran `}
         <span className="text-primary">Huu Phuoc</span>
       </h1>
-      <div className="subheading mb-5">{`Dien Bien Phu st, Binh Thanh district, Ho Chi Minh city `}
+      <div className='subheading'>Senior Software Engineer</div>
+      <div className="subheading mb-5">{`Mobile: (+84)1666-459-432, Email: `}
         <a href="mailto:tranhuuphuoc88@gmail.com">tranhuuphuoc88@gmail.com</a>
+        {`, Skype: tranhuuphuoc88`}
       </div>
       <p className="mb-5" style={{width: 600, textAlign: 'justify'}}>
         He was born and grown in a countryside in Ha Tinh province. With a passion for computer from very soon.
