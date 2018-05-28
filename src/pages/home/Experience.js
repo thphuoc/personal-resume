@@ -12,7 +12,7 @@ const Experience = () => (
           <p>Allow individual customer have a loan online and then they have to go to a Kiosk to scan finger print, proof of resident,... and finally the loan will be transfer to balance account of customer</p>
           <p>
             Technical: ReactJS, Redux, HTML5, CSS3, bootstrap 4, RxJS,...<br/>
-            Middleware: Epic, Enzyme, Jest, jQuery, react-router,...
+            Middleware: Epic, Enzyme, Jest, jQuery, react-router,...<br/>
           </p>
         </div>
         <div className="resume-date text-md-right">
