@@ -17,6 +17,50 @@ const Skills = () => (
         </li>
       </ul>
 
+      <div className="subheading mb-3">Technicals/Framework</div>
+      <ul className="fa-ul">
+        <li>
+          <i className="fa-li fa fa-check"/>
+          ReactJS Web development
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Android mobile development
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Backend development base on Spring boot, Spring cloud, Netflix stack, Microservice architecture, Kafka, Docker,...
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Amazon webservice
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Automation test base on Cucumber and Selenium framework
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Java Unit-testing base on Mockito/PowerMockito
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Javascript Unit-testing base on Jest
+        </li>
+      </ul>
+
+      <div className="subheading mb-3">Management</div>
+      <ul className="fa-ul">
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Team lead
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Scrum master
+        </li>
+      </ul>
+
       <div className="subheading mb-3">Development Tools</div>
       <ul className="fa-ul">
         <li>
@@ -38,6 +82,10 @@ const Skills = () => (
         <li>
           <i className="fa-li fa fa-check"/>
           Teamwork/Solo
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Team lead/Team management
         </li>
       </ul>
 
@@ -73,7 +121,11 @@ const Skills = () => (
         </li>
         <li>
           <i className="fa-li fa fa-check"/>
-          Cross Review Code
+          Pair code review
+        </li>
+        <li>
+          <i className="fa-li fa fa-check"/>
+          Pair programming
         </li>
         <li>
           <i className="fa-li fa fa-check"/>

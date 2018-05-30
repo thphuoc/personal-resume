@@ -12,7 +12,7 @@ import Certifications from './Certifications'
 class App extends Component {
   render () {
     return (
-      <div>
+      <div className='container'>
         <Menu/>
         <div className="container-fluid p-0">
           <About/>
