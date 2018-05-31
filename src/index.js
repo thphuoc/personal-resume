@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import registerServiceWorker from './registerServiceWorker'
 import { BrowserRouter } from 'react-router-dom'
-import Router from './router'
+import App from './pages/home/App'
 
 ReactDOM.render((
   <BrowserRouter>
-    <Router/>
+    <App/>
   </BrowserRouter>
 ), document.getElementById('root'))
 

@@ -8,25 +8,23 @@ import Education from './Education'
 import Skills from './Skills'
 import Interests from './Interests'
 import Certifications from './Certifications'
-import Helmet from 'react-helmet/es/Helmet'
+import Switch from 'react-router-dom/es/Switch'
+import Route from 'react-router-dom/es/Route'
 
 class App extends Component {
   render () {
     return (
-      <div className='wrapper'>
-        <Helmet
-          title="About"
-          meta={[
-            {property: 'og:title', content: 'About'},
-          ]} />
+      <div>
         <Menu/>
         <div className="container-fluid p-0">
-          <About/>
-          <Experience/>
-          <Education/>
-          <Skills/>
-          <Interests/>
-          <Certifications/>
+          <Switch>
+            <Route exact path='/' render={About}/>
+            <Route exact path='/experience' render={Experience}/>
+            <Route exact path='/education' render={Education}/>
+            <Route exact path='/skills' render={Skills}/>
+            <Route exact path='/interests' render={Interests}/>
+            <Route exact path='/certifications' render={Certifications}/>
+          </Switch>
         </div>
       </div>
 

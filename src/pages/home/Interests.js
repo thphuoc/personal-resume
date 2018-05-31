@@ -1,7 +1,13 @@
 import React from 'react'
+import Helmet from 'react-helmet/es/Helmet'
 
 const Interests = () => (
   <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+    <Helmet
+      title="Interests of Phuoc Tran"
+      meta={[
+        {property: 'og:title', content: 'Interests of Phuoc Tran'},
+      ]}/>
     <div className="my-auto">
       <h2 className="mb-5">Interests</h2>
       <p>Trekking, Climbing, Swimming, Walking for health.</p>
